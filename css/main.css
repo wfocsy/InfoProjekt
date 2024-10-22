@@ -1,0 +1,70 @@
+
+.meret {
+  opacity: 0.9;
+
+height: 120px;
+}
+
+
+nav ul {
+   
+  margin-top: 48px;
+  
+}
+
+.logoimg{
+  padding-top: 20px;
+  height: 3em;
+ 
+
+}
+.mob-logoimg{
+  padding-top: 5px;
+  height: 2em;
+ 
+
+}
+.section-slider {
+
+  top: 2px;
+}
+
+
+.section{
+  padding-top: 60px;
+}
+
+.fa-whatsapp{
+
+  font-size: 3em;
+  color: #DCF8C6;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+
+.sidenav{
+  height: 100%;
+  width: 40%;
+  position: fixed;
+  font-size: 33px;
+  
+  top: 0px;
+  left: 0;
+  background-color: white;
+  opacity: 0.8;
+  overflow: hidden;
+  padding-top: 20px;
+  
+}
+
+
