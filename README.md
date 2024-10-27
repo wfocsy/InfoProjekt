@@ -26,5 +26,5 @@ A fejlécen található még egy telefon sider amelyel telefonhívást kezdemén
 ## Projektfeladat résztvevői:
 
 Fehér Zsolt - BUD704  
-Ujfalusi Attila -   
+Ujfalusi Attila - T6U9OM  
  
